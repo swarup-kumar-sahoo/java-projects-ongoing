@@ -1,0 +1,79 @@
+public class Main {
+    public static void main(String[] args) {
+      System.out.println("Hello World");
+      System.out.println("Myshelf Swarup");
+      System.out.println("i live on earth");
+
+      System.out.println(10 + 10 );
+
+      System.out.print("Hello coso ");
+      System.out.print("I can write on same line.");
+
+      // coso look here its a comment
+
+      /* coso look 
+      its a multi line comment */
+
+
+      //    CREATING A VARIABLE = type variableName = value;    //
+
+
+      String cat = "coso";   // creating string variable
+      System.out.println(cat);
+
+    int myNum = 15;            // creating int 
+    System.out.println(myNum);
+
+    int Mynum = 23;
+    System.out.println(Mynum);
+
+    int MyNum;
+    MyNum = 72;
+    System.out.print(MyNum);
+
+    float kitty;        // creating float 
+    kitty = 1.30f;
+    System.out.print(kitty);
+
+    float mycoso = 23.7f;
+    System.out.println(mycoso);
+
+    char ohcoso = 'A';          // creating charecter
+    System.out.println(ohcoso);
+ 
+    boolean cutecoso = true;    // creating boolean
+    System.out.println(cutecoso);
+
+    //   DISPLAY VARIABLES 
+    
+    // Example 1
+    String billa = "coso";
+    System.out.println("my cuty cat " + billa );
+
+    // Example 2
+    String first = "Swarup ";
+    String second = "raj";
+    String full = first + second ;
+    System.out.println(full);
+
+    // EXAMPLE 3 
+    int x = 10;
+    int y = 10;
+    int z = x + y;
+    System.out.println(z);
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+  }
